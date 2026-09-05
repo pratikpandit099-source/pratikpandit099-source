@@ -30,8 +30,4 @@ Email Me 👉 ✉️ **pratikpandit099@gmail.com** For Collaboration/Project or 
 </div>
 
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
