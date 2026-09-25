@@ -1,16 +1,5 @@
 # 💫 Hi 👋, I'm Pratik Pandit
 
-
-Email Me 👉 ✉️ **pratikpandit099@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
-- 🔭 **I’m currently working on:**
-- 🌱 **I’m currently learning:** 
-- 👯 **I’m looking to collaborate on:** 
-- 🤔 **I’m looking for help with:**
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** pratikandit099@gmail.com
-- 😄 **Pronouns:** Pratik
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratik Pandit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratikpandit099@gmail.com) 
 
